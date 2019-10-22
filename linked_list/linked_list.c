@@ -28,6 +28,8 @@ int main(int argc, char* argv[]) {
 
 	// 1. 리스트 초기화
 	r = init_list();
+
+	// 2. 
 	
 	printf("%d %x\n", r->length, r->head);
 
